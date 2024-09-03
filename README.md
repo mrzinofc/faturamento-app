@@ -4,4 +4,4 @@ Este é um projeto React simples que calcula e retorna o menor, maior faturament
 ## Como rodar o projeto
 1. Clone o repositório:
     ```bash
-    git clone https:github.com/mrzinofc/faturamento-app.git
+    git clone https:github.com/mrzinofc/faturamento-app.git 
